@@ -1,7 +1,8 @@
 # Tiktok-Username-Checker 2
 
 # Username Checker/Generator V2
-[test](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0dm1oYXEzbGZ2aDVzanUzeXhtdW90bmUxMXRtN3U2bWV4eG4zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8CTEteIHjzMfYY2RlK/giphy.gif)
+![giphy](https://github.com/user-attachments/assets/3026f9a3-72fe-42f4-852b-02d11f7d132e)
+
 
 # Proxied/Proxyless Use socks4/https/socks5
 
